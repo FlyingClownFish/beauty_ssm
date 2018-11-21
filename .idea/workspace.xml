@@ -42,7 +42,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yingjun/ssm/aop/BindingResultAop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
+<<<<<<< HEAD
               <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+=======
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+>>>>>>> 9eb26fead4623320ac8261013cea24ab5f88ef2e
             </state>
           </provider>
         </entry>
@@ -151,7 +155,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542792379233" />
+=======
+>>>>>>> 9eb26fead4623320ac8261013cea24ab5f88ef2e
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -178,12 +185,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542790905343</updated>
+<<<<<<< HEAD
       <workItem from="1542790908357" duration="1467000" />
+=======
+      <workItem from="1542790908357" duration="1319000" />
+>>>>>>> 9eb26fead4623320ac8261013cea24ab5f88ef2e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1467000" />
+=======
+    <option name="totallyTimeSpent" value="1319000" />
+>>>>>>> 9eb26fead4623320ac8261013cea24ab5f88ef2e
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -232,7 +247,11 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yingjun/ssm/aop/BindingResultAop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
+<<<<<<< HEAD
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+=======
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+>>>>>>> 9eb26fead4623320ac8261013cea24ab5f88ef2e
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ import org.springframework.validation.BindingResult;
 /**
  * @author yingjun
  *
- * AOP的方式处理参数问题。
+ * 采用AOP的方式处理参数问题。
  */
 @Component
 @Aspect
