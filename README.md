@@ -1,5 +1,5 @@
 #优雅的SSM架构(Spring+SpringMVC+Mybatis）
-- Maven
+- Maven yangyu
 - Spring（IOC DI AOP 声明式事务处理）
 - SpringMVC（支持Restful风格）
 wanggangghjffd==============================
