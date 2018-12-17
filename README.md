@@ -2,6 +2,7 @@
 - Maven
 - Spring（IOC DI AOP 声明式事务处理）
 - SpringMVC（支持Restful风格）
+wanggangghjffd==============================
 - Hibernate Validate（参数校验）
 - Mybatis（最少配置方案）
 - Quartz时间调度
